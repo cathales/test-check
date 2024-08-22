@@ -1,3 +1,5 @@
 # test-check
 
 test
+
+faster
