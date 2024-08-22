@@ -1,5 +1,2 @@
 # test-check
 
-test
-
-faster
